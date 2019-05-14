@@ -10,6 +10,7 @@ namespace SampleGit
     {
         static void Main(string[] args)
         {
+            // Prints message onto the console.
             Console.WriteLine("Hello World!!");
             Console.ReadLine();
         }
